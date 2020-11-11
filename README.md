@@ -1,4 +1,3 @@
 # hello-world
-Primera aplicación para aprendizaje: Hello world
-
-Soy Daniel, GitHub es interesante.
+Primera aplicación para aprendizaje: Hello World
+Soy Daniel, GitHub es muy interesante.
